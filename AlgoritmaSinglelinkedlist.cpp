@@ -39,7 +39,9 @@ void addNode() {
 	{
 		if (nim == current->noMhs)
 		{
-
+			cout << "NIM sudah ada" << endl;
+			return;
 		}
+		
 	}
 }
